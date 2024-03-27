@@ -1,2 +1,0 @@
-# exercicioBala
-Exercício do class
