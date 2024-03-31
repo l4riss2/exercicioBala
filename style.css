@@ -1,18 +1,38 @@
+body {
+  background-color: aliceblue;
+}
 .square {
   background-color: red;
   width:250px;
   height:250px;
-  text-align: center;
-  color:black;
 }
- 
+.square h2 {
+  text-align: center;
+  color: red;
+}
+.square h1 {
+  text-align: center;
+  color: white;
+}
+
 
 .square2 {
   background-color:black;
   width:250px;
   height:250px;
-  color:orange;
+}
+.square2 h2 {
   text-align: center;
- 
+  color: black;
+}
+.square2 h1 {
+  text-align: center;
+  color: white;
 }
 
+
+
+
+
+
+  
