@@ -1,20 +1,27 @@
 body {
-  background-color: aliceblue;
+  background-color: #252525;
+}
+header {
+  border-bottom: 3px solid black;
+}
+.xxx h1 {
+  font-size: 30px;
+  text-align: center;
+  color: white;
 }
 .square {
   background-color: red;
   width:250px;
   height:250px;
 }
+.square h1 {
+   text-align: center;
+   color:white;
+}
 .square h2 {
   text-align: center;
   color: red;
 }
-.square h1 {
-  text-align: center;
-  color: white;
-}
-
 
 .square2 {
   background-color:black;
